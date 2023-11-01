@@ -12,7 +12,7 @@ public class Main01 {
     }
 
     public static void main(String[] args) {
-        int[] arr = {4, 8, 1, 2, 3};
+        int[] arr = {9, 4, 2, 1, 1, 1};
         System.out.println(concat(arr));
     }
 }
