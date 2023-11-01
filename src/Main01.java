@@ -12,7 +12,7 @@ public class Main01 {
     }
 
     public static void main(String[] args) {
-        int[] arr = {1, 9, 7, 5, 2};
+        int[] arr = {9, 4, 2, 1, 1, 1};
         System.out.println("Число из заданного массива: ");
         System.out.println(concat(arr));
     }
